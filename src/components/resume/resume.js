@@ -18,6 +18,8 @@ export default class Resume extends Component {
                     <div className="twelve columns">
                       <h3>IIT Mandi </h3>
                       <p className="info">Bachelors in Technology [B.TECH] <span>•</span> <em className="date">Class of 2022</em></p>
+		      <p className="info">Roll No <span>•</span> <em className="date">B18074</em></p>
+		      <p className="info">Courses <span>•</span> <em className="date">Large Applications Practicum</em></p>
 
                     </div>
                   </div> {/* item end */}
