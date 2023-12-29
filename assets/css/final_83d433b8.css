@@ -33,6 +33,11 @@
   src: url("../fonts/icomoon_162a16fe.eot#iefix") format("embedded-opentype"), url("../fonts/icomoon_1e449cf8.woff") format("woff"), url("../fonts/icomoon_1e449cf8.ttf") format("truetype"), url("../fonts/icomoon_1e449cf8.svg") format("svg")
 }
 
+.icon{
+  border-radius: 10px;
+}
+
+
 html,
 body,
 div,
